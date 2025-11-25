@@ -1,0 +1,9 @@
+Numpy for preprocessing
+
+in list :the elements are not necessarily in contiguous block
+in numpy: the elements are in contiguous block
+
+SIMD - single instruction multiple data vector processing 
+
+We can also add images using numpy
+machine learning
